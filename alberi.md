@@ -15,3 +15,4 @@
 
 # Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
+* [Urban trees 'live fast, die young' compared to those in rural forests](https://phys.org/news/2019-05-urban-trees-fast-die-young.html), PLoS, 8 maggio 2019. Gli alberi crescono circa 4 volte più velocemente in città rispetto alla campagna, ma senza attenzione/manutenzione muoiono in fretta e quindi non servono praticamente allo storage di CO2.
