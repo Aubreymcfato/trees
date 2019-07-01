@@ -5,6 +5,7 @@
 * [Monetary value of urban green space as an ecosystem service provider: A case study of urban runoff management in Finland](https://www.sciencedirect.com/science/article/pii/S2212041616301085), Dicembre 2017
 * [L’importanza dell’ombra degli alberi: anziché installare condizionatori, dovremmo piantarne di più](https://www.greenme.it/informarsi/ambiente/importanza-ombra-alberi), Greenme, 20 giugno 2019
 * [Le città? Prendiamole a picconate](https://www.doppiozero.com/materiali/le-citta-prendiamole-picconate), Doppiozero, 25 giugno 2019
+* [Alberi che fanno soffrire meno il caldo](https://thesubmarine.it/2019/07/01/alberi-che-fanno-soffrire-meno-il-caldo/?fbclid=IwAR0NiGZWpUtA4i42S06A0NOELnXeM-GNoIClPLIk-bg-BQz-1izXYbI01w4), The Submarine, 1 luglio 2019
 
 ## Tetti verdi
 * [Green roofs as a tool for solving the rainwater runoff problem in the urbanized 21st century?](https://www.sciencedirect.com/science/article/pii/S0169204605000496), Landscape and Urban Planning, 30 agosto 2006
