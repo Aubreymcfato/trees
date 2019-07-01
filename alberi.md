@@ -13,5 +13,5 @@
 * [Perché Milano dovrebbe incentivare l’installazione di tetti verdi](https://thesubmarine.it/2017/10/20/perche-milano-dovrebbe-incentivare-linstallazione-di-tetti-verdi), The Submarine, 30 ottobre 2017. L'articolo in questione cita i due precedenti, fornendo un ottimo riassunto in italiano.
 
 
-# Studi che sottolineano l'aspetto controverso della riforestazione come soluzione al CC
+# Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
