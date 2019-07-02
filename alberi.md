@@ -12,6 +12,10 @@
 * [Green roof performance towards management of runoff water quantity and quality: A review](https://www.sciencedirect.com/science/article/abs/pii/S0925857410000029), Ecological Engineering, Apriel 2010
 * [Perché Milano dovrebbe incentivare l’installazione di tetti verdi](https://thesubmarine.it/2017/10/20/perche-milano-dovrebbe-incentivare-linstallazione-di-tetti-verdi), The Submarine, 30 ottobre 2017. L'articolo in questione cita i due precedenti, fornendo un ottimo riassunto in italiano.
 
+# Progetti interessanti
+* [Afforestt](https://www.afforestt.com/). Tramite un nuovo metodo di preparazione del terreno e selezione delle piante, Afforestt pianta forest 30 volte più dense del normale, facendole crescere molto più velocemente (fino a 10x).
+* [BioCarbonEngineering](https://www.biocarbonengineering.com). Usano droni per mappare il terreno, e poi piantare le piante. Allegedly, aumenta enormemente la produttività.
+* [CityTree](https://greencitysolutions.de/en/solutions/#section2). Panchina per l'assorbimento di CO2 e altri inquinanti. Sperimentata anche a Modena (!). 
 
 # Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
