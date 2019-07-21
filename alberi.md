@@ -15,7 +15,6 @@
 ### Effetti positivi del verde per la mente umana
 * [Seeing greenery linked to less intense and frequent cravings](https://neurosciencenews.com/green-space-cravings-14468/?fbclid=IwAR1alCTy6JWQHF2GVp79_0Rj_-J1ndbs_TfW168_yOPJYjar1ZQGW5PdANk), Neuroscience News, 12 luglio 2019.
 
-
 # Progetti tecnologici interessanti
 * [Afforestt](https://www.afforestt.com/). Tramite un nuovo metodo di preparazione del terreno e selezione delle piante, Afforestt pianta forest 30 volte più dense del normale, facendole crescere molto più velocemente (fino a 10x).
 * [BioCarbonEngineering](https://www.biocarbonengineering.com). Usano droni per mappare il terreno, e poi piantare le piante. Allegedly, aumenta enormemente la produttività.
@@ -23,6 +22,7 @@
 
 # Mappe verdi
 * [Treepedia](http://senseable.mit.edu/treepedia), MIT.
+* [Opentreemap](https://www.opentreemap.org/).
 
 # Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
