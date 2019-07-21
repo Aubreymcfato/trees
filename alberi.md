@@ -21,6 +21,9 @@
 * [BioCarbonEngineering](https://www.biocarbonengineering.com). Usano droni per mappare il terreno, e poi piantare le piante. Allegedly, aumenta enormemente la produttività.
 * [CityTree](https://greencitysolutions.de/en/solutions/#section2). Panchina per l'assorbimento di CO2 e altri inquinanti. Sperimentata anche a Modena (!). 
 
+# Mappe verdi
+* [Treepedia](http://senseable.mit.edu/treepedia), MIT.
+
 # Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
 
