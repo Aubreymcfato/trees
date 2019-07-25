@@ -15,6 +15,10 @@
 ### Effetti positivi del verde per la mente umana
 * [Seeing greenery linked to less intense and frequent cravings](https://neurosciencenews.com/green-space-cravings-14468/?fbclid=IwAR1alCTy6JWQHF2GVp79_0Rj_-J1ndbs_TfW168_yOPJYjar1ZQGW5PdANk), Neuroscience News, 12 luglio 2019.
 
+### Calore in città
+* [Perché in città fa più caldo](https://www.ilpost.it/2019/06/25/isole-calore-urbane/), IlPost, 25 luglio 2019.
+* [The Making (and Breaking) of an Urban Heat Island](https://earthobservatory.nasa.gov/features/GreenRoof/greenroof2.php), NASA. 
+
 # Progetti tecnologici interessanti
 * [Afforestt](https://www.afforestt.com/). Tramite un nuovo metodo di preparazione del terreno e selezione delle piante, Afforestt pianta forest 30 volte più dense del normale, facendole crescere molto più velocemente (fino a 10x).
   + [The Miyawaki Method: A Better Way to Build Forests?](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/), JSTOR, 2019. Articolo che entra nel dettaglio della metodologia Miyawaki. 
