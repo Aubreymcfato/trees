@@ -17,6 +17,8 @@
 
 # Progetti tecnologici interessanti
 * [Afforestt](https://www.afforestt.com/). Tramite un nuovo metodo di preparazione del terreno e selezione delle piante, Afforestt pianta forest 30 volte più dense del normale, facendole crescere molto più velocemente (fino a 10x).
+  + [The Miyawaki Method: A Better Way to Build Forests?](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/), JSTOR, 2019. Articolo che entra nel dettaglio della metodologia Miyawaki. 
+  + Pagina Wikipedia di [Akira Miyawaki](https://en.wikipedia.org/wiki/Akira_Miyawaki). 
 * [BioCarbonEngineering](https://www.biocarbonengineering.com). Usano droni per mappare il terreno, e poi piantare le piante. Allegedly, aumenta enormemente la produttività.
 * [CityTree](https://greencitysolutions.de/en/solutions/#section2). Panchina per l'assorbimento di CO2 e altri inquinanti. Sperimentata anche a Modena (!). 
 
