@@ -37,3 +37,4 @@
 * [Growing a better Australia](http://www.agriculture.gov.au/SiteCollectionDocuments/forestry/national-forest-industries-plan.pdf), Australian Government, 2018. L'Australia punta a piantare un milardo di alberi entro il 2050.
 * [The global tree restoration potential](http://sci-hub.tw/10.1126/science.aax0848), Science, 5 luglio 2019. Articolo diventato virale in cui si dice che c'è abbastanza terra per un **trilione** di nuovi alberi. Interessante ma incompleto sul _come_.
 * [Ethiopia plants 350m trees in a day to help tackle climate crisis ](https://www.theguardian.com/world/2019/jul/29/ethiopia-plants-250m-trees-in-a-day-to-help-tackle-climate-crisis), TheGuardian, 29 luglio 2019.
+* [China and India lead in greening of the world through land-use management](http://sci-hub.tw/https://www.nature.com/articles/s41893-019-0220-7), Nature, febbraio 2019.
