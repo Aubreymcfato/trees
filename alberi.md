@@ -15,15 +15,27 @@
 ### Effetti positivi del verde per la mente umana
 * [Seeing greenery linked to less intense and frequent cravings](https://neurosciencenews.com/green-space-cravings-14468/?fbclid=IwAR1alCTy6JWQHF2GVp79_0Rj_-J1ndbs_TfW168_yOPJYjar1ZQGW5PdANk), Neuroscience News, 12 luglio 2019.
 
+### Calore in città
+* [Perché in città fa più caldo](https://www.ilpost.it/2019/06/25/isole-calore-urbane/), IlPost, 25 luglio 2019.
+* [The Making (and Breaking) of an Urban Heat Island](https://earthobservatory.nasa.gov/features/GreenRoof/greenroof2.php), NASA. 
 
 # Progetti tecnologici interessanti
 * [Afforestt](https://www.afforestt.com/). Tramite un nuovo metodo di preparazione del terreno e selezione delle piante, Afforestt pianta forest 30 volte più dense del normale, facendole crescere molto più velocemente (fino a 10x).
+  + [The Miyawaki Method: A Better Way to Build Forests?](https://daily.jstor.org/the-miyawaki-method-a-better-way-to-build-forests/), JSTOR, 2019. Articolo che entra nel dettaglio della metodologia Miyawaki. 
+  + Pagina Wikipedia di [Akira Miyawaki](https://en.wikipedia.org/wiki/Akira_Miyawaki). 
 * [BioCarbonEngineering](https://www.biocarbonengineering.com). Usano droni per mappare il terreno, e poi piantare le piante. Allegedly, aumenta enormemente la produttività.
 * [CityTree](https://greencitysolutions.de/en/solutions/#section2). Panchina per l'assorbimento di CO2 e altri inquinanti. Sperimentata anche a Modena (!). 
 
+# Mappe verdi
+* [Treepedia](http://senseable.mit.edu/treepedia), MIT.
+* [Opentreemap](https://www.opentreemap.org/).
+
 # Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
+* [Planting A Trillion Trees Is A Nice Thought, But An Unlikely Reality](https://cleantechnica.com/2019/07/30/planting-a-trillion-trees-is-a-nice-thought-but-an-unlikely-reality/), CleanTechnica, luglio 2019. Meglio investire in eolico che piantare alberi.
 
 # Riforestazione massiva
 * [Growing a better Australia](http://www.agriculture.gov.au/SiteCollectionDocuments/forestry/national-forest-industries-plan.pdf), Australian Government, 2018. L'Australia punta a piantare un milardo di alberi entro il 2050.
 * [The global tree restoration potential](http://sci-hub.tw/10.1126/science.aax0848), Science, 5 luglio 2019. Articolo diventato virale in cui si dice che c'è abbastanza terra per un **trilione** di nuovi alberi. Interessante ma incompleto sul _come_.
+* [Ethiopia plants 350m trees in a day to help tackle climate crisis ](https://www.theguardian.com/world/2019/jul/29/ethiopia-plants-250m-trees-in-a-day-to-help-tackle-climate-crisis), TheGuardian, 29 luglio 2019.
+* [China and India lead in greening of the world through land-use management](http://sci-hub.tw/https://www.nature.com/articles/s41893-019-0220-7), Nature, febbraio 2019.
