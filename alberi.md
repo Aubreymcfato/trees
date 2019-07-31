@@ -32,6 +32,7 @@
 
 # Aspetti controversi della riforestazione
 * [How much can forests fight climate change?](https://www.nature.com/articles/d41586-019-00122-z), Nature, 15 gennaio 2019.
+* [Planting A Trillion Trees Is A Nice Thought, But An Unlikely Reality](https://cleantechnica.com/2019/07/30/planting-a-trillion-trees-is-a-nice-thought-but-an-unlikely-reality/), CleanTechnica, luglio 2019. Meglio investire in eolico che piantare alberi.
 
 # Riforestazione massiva
 * [Growing a better Australia](http://www.agriculture.gov.au/SiteCollectionDocuments/forestry/national-forest-industries-plan.pdf), Australian Government, 2018. L'Australia punta a piantare un milardo di alberi entro il 2050.
