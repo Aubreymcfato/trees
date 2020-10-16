@@ -44,4 +44,5 @@
 * [China and India lead in greening of the world through land-use management](http://sci-hub.tw/https://www.nature.com/articles/s41893-019-0220-7), Nature, febbraio 2019.
 
 
-Se vuoi contribuire al documento? Fai una *pull request* su [GitHub](https://github.com/Aubreymcfato/trees/blob/master/alberi.md).  
+### Contribuisci!
+Vuoi aggiungere un articolo? Fai una *pull request* su [GitHub](https://github.com/Aubreymcfato/trees/blob/master/alberi.md).  
