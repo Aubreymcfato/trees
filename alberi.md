@@ -42,3 +42,6 @@
 * [The global tree restoration potential](http://sci-hub.tw/10.1126/science.aax0848), Science, 5 luglio 2019. Articolo diventato virale in cui si dice che c'è abbastanza terra per un **trilione** di nuovi alberi. Interessante ma incompleto sul _come_.
 * [Ethiopia plants 350m trees in a day to help tackle climate crisis ](https://www.theguardian.com/world/2019/jul/29/ethiopia-plants-250m-trees-in-a-day-to-help-tackle-climate-crisis), TheGuardian, 29 luglio 2019.
 * [China and India lead in greening of the world through land-use management](http://sci-hub.tw/https://www.nature.com/articles/s41893-019-0220-7), Nature, febbraio 2019.
+
+
+Se vuoi contribuire al documento? Fai una *pull request* su [GitHub](https://github.com/Aubreymcfato/trees/blob/master/alberi.md).  
